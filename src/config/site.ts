@@ -11,12 +11,12 @@ export const site = {
   cities: "Juazeiro do Norte - CE / Senhor do Bonfim - BA",
   role: "Bacharel em Educação Física · Professor/Terapeuta",
   cref: "CREF 015474-G/CE",
-  // TROCAR pelos dados reais do Adilson
-  whatsappRaw: "5500000000000",
-  whatsappDisplay: "(00) 00000-0000",
+  whatsappRaw: "5587999908299",
+  whatsappDisplay: "(87) 9 9990-8299",
+  // TROCAR: e-mail de exemplo
   email: "contato@exemplo.com",
-  instagram: "@adilsongomes",
-  instagramUrl: "https://www.instagram.com/",
+  instagram: "@adilson_gomees",
+  instagramUrl: "https://www.instagram.com/adilson_gomees/",
   timeZone: "America/Fortaleza",
   timeZoneLabel: "horário de Brasília",
 };
