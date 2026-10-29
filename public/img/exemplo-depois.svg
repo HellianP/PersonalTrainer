@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Ilustração de exemplo: depois">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a3d"/><stop offset="1" stop-color="#b8300a"/></linearGradient></defs>
+  <rect width="600" height="750" fill="url(#g)"/>
+  <circle cx="300" cy="190" r="58" fill="#ffe3d3"/>
+  <path d="M150 330c40-50 90-70 150-70s110 20 150 70l-30 40v170c0 30-12 50-30 60l-5 130h-170l-5-130c-18-10-30-30-30-60V370z" fill="#ffe3d3"/>
+  <rect x="222" y="650" width="52" height="100" rx="14" fill="#ffe3d3"/><rect x="326" y="650" width="52" height="100" rx="14" fill="#ffe3d3"/>
+  <rect x="426" y="24" width="150" height="44" rx="22" fill="#000" opacity=".55"/>
+  <text x="501" y="53" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#fff">DEPOIS</text>
+  <text x="300" y="725" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#fff">Imagem ilustrativa (exemplo)</text>
+</svg>
